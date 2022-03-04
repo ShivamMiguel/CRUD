@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC preta",
+      "price": 50
+    },
+    {
+      "id": 2,
+      "name": "Notebook Mac",
+      "price": 100
+    },
+    {
+      "name": "Plasma LG",
+      "price": "800.000",
+      "id": 3
+    }
+  ]
+}
